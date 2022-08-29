@@ -1,0 +1,17 @@
+input {
+    display: none;
+    border-style: inset;
+    border-radius: 1rem;
+    text-align: center;
+  height: 2rem;
+  width: 15rem;
+  }
+  body{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+  }
+  button{
+    font-size: larger;
+    font-weight: 900;
+  }
